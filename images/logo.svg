@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_1" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" width="48" height="48" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_名称未設定グラデーション_5);
+      }
+
+      .cls-2 {
+        fill: url(#_名称未設定グラデーション_5-2);
+      }
+
+      .cls-3 {
+        fill: url(#_名称未設定グラデーション_5-3);
+      }
+    </style>
+    <linearGradient id="_名称未設定グラデーション_5" data-name="名称未設定グラデーション 5" x1="23.21" y1="1.37" x2="38.01" y2="16.17" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f0cbca"/>
+      <stop offset="1" stop-color="#96a8cd"/>
+    </linearGradient>
+    <linearGradient id="_名称未設定グラデーション_5-2" data-name="名称未設定グラデーション 5" x1="22.98" y1="22.42" x2="33.83" y2="33.27" xlink:href="#_名称未設定グラデーション_5"/>
+    <linearGradient id="_名称未設定グラデーション_5-3" data-name="名称未設定グラデーション 5" x1="2.3" y1="4.61" x2="20.85" y2="23.16" xlink:href="#_名称未設定グラデーション_5"/>
+  </defs>
+  <polygon class="cls-1" points="19.61 4.96 15.21 12.59 41.59 12.59 46.01 4.95 19.61 4.96"/>
+  <polygon class="cls-2" points="37.24 20.2 24.02 43.08 19.6 35.45 32.79 12.61 37.24 20.2"/>
+  <polygon class="cls-3" points="21.14 22.87 12.34 22.87 1.99 4.92 10.82 4.92 21.14 22.87"/>
+</svg>
